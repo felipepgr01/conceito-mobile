@@ -1,0 +1,34 @@
+inherited FormClientes: TFormClientes
+  Caption = 'FormBaseLyt1'
+  DesignerMasterStyle = 3
+  inherited lylGeral: TLayout
+    inherited ToolBar1: TToolBar
+      object Label1: TLabel
+        Align = Client
+        StyledSettings = [Family, Size, Style]
+        Size.Width = 360.000000000000000000
+        Size.Height = 48.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.FontColor = claWhite
+        TextSettings.HorzAlign = Center
+        Text = 'Clientes'
+        TabOrder = 0
+      end
+    end
+    object Button1: TButton [1]
+      Position.X = 144.000000000000000000
+      Position.Y = 264.000000000000000000
+      TabOrder = 2
+      Text = 'Client'
+    end
+    inherited mtvMenu: TMultiView
+      inherited VertScrollBox1: TVertScrollBox
+        Viewport.Width = 241.000000000000000000
+        Viewport.Height = 375.000000000000000000
+        inherited Rectangle3: TRectangle
+          OnClick = nil
+        end
+      end
+    end
+  end
+end

@@ -1,0 +1,30 @@
+unit uFormClientes;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants, 
+  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.Dialogs, FMX.StdCtrls,
+  uBaseLista, FMX.Objects, FMX.Controls.Presentation, FMX.Layouts, FMX.MultiView;
+
+type
+  TFormClientes = class(TFormBaseLyt)
+    Button1: TButton;
+    Label1: TLabel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormClientes: TFormClientes;
+
+implementation
+
+uses
+  uLibary;
+
+{$R *.fmx}
+
+end.

@@ -1,0 +1,48 @@
+unit uFormClientes;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes,
+  System.Variants,
+  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.Dialogs, FMX.StdCtrls,
+  uBaseLista, FMX.Objects, FMX.Controls.Presentation, FMX.Layouts,
+  FMX.MultiView;
+
+type
+  TFormClientes = class(TFormBaseLyt)
+    Button1: TButton;
+    Label1: TLabel;
+    procedure Rectangle2Click(Sender: TObject);
+    procedure Rectangle3Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  FormClientes: TFormClientes;
+
+implementation
+
+uses
+  uLibary, uFormConfig, uPrincipal_Menu;
+
+{$R *.fmx}
+
+procedure TFormClientes.Rectangle2Click(Sender: TObject);
+begin
+  inherited;
+  TCriacaoForm.OpenForm(TFormClientes, nil);
+  mtvMenu.Visible := False;
+end;
+
+procedure TFormClientes.Rectangle3Click(Sender: TObject);
+begin
+  inherited;
+  TCriacaoForm.OpenForm(TFormConfig, nil);
+  mtvMenu.Visible := False;
+end;
+
+end.

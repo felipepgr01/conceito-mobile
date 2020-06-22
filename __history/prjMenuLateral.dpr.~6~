@@ -1,0 +1,14 @@
+program prjMenuLateral;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  uPrincipal_Menu in 'uPrincipal_Menu.pas' {TFormPrincipal},
+  uConfig in 'uConfig.pas' {TFormConfig};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.Run;
+end.

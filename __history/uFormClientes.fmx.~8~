@@ -1,0 +1,12 @@
+inherited FormClientes: TFormClientes
+  Caption = 'FormBaseLyt1'
+  DesignerMasterStyle = 3
+  inherited lylGeral: TLayout
+    object Button1: TButton
+      Position.X = 144.000000000000000000
+      Position.Y = 264.000000000000000000
+      TabOrder = 1
+      Text = 'Client'
+    end
+  end
+end
