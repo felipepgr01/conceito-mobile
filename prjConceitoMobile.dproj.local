@@ -2,27 +2,28 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2020/06/19 09:43:10.000.315,=C:\Users\Pgr01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2020/06/19 10:12:55.000.971,C:\Users\Pgr01\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Projetos\uPrincipal_Menu.pas</Transaction>
-    <Transaction>2020/06/19 10:12:55.000.971,C:\Users\Pgr01\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Projetos\uPrincipal_Menu.fmx</Transaction>
-    <Transaction>2020/06/19 10:13:22.000.596,C:\Users\Pgr01\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Projetos\prjMenuLateral.dproj</Transaction>
+    <Transaction>2020/06/19 10:12:55.000.971,C:\Projetos\uPrincipal_Menu.pas=C:\Users\Pgr01\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/06/19 10:12:55.000.971,C:\Projetos\uPrincipal_Menu.fmx=C:\Users\Pgr01\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/06/19 10:13:22.000.596,C:\Projetos\prjMenuLateral.dproj=C:\Users\Pgr01\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2020/06/19 14:55:50.000.811,=C:\Projetos Conceito\Conceito Mobile\Unit2.pas</Transaction>
-    <Transaction>2020/06/19 15:00:34.000.310,C:\Projetos Conceito\Conceito Mobile\Unit2.fmx=C:\Projetos Conceito\Conceito Mobile\uConfig.fmx</Transaction>
-    <Transaction>2020/06/19 15:00:34.000.310,C:\Projetos Conceito\Conceito Mobile\Unit2.pas=C:\Projetos Conceito\Conceito Mobile\uConfig.pas</Transaction>
+    <Transaction>2020/06/19 15:00:34.000.310,C:\Projetos Conceito\Conceito Mobile\uConfig.pas=C:\Projetos Conceito\Conceito Mobile\Unit2.pas</Transaction>
+    <Transaction>2020/06/19 15:00:34.000.310,C:\Projetos Conceito\Conceito Mobile\uConfig.fmx=C:\Projetos Conceito\Conceito Mobile\Unit2.fmx</Transaction>
     <Transaction>2020/06/19 15:20:07.000.060,=C:\Projetos Conceito\Conceito Mobile\Unit1.pas</Transaction>
     <Transaction>2020/06/19 15:20:31.000.713,=C:\Projetos Conceito\Conceito Mobile\Unit2.pas</Transaction>
     <Transaction>2020/06/19 15:35:03.000.807,=C:\Projetos Conceito\Conceito Mobile\Unit1.pas</Transaction>
     <Transaction>2020/06/19 15:35:14.000.763,=C:\Projetos Conceito\Conceito Mobile\Unit2.pas</Transaction>
     <Transaction>2020/06/19 16:10:02.000.905,=C:\Projetos Conceito\Conceito Mobile\Unit1.pas</Transaction>
-    <Transaction>2020/06/19 16:22:06.000.661,C:\Projetos Conceito\Conceito Mobile\Unit1.pas=C:\Projetos Conceito\Conceito Mobile\uLibary.pas</Transaction>
-    <Transaction>2020/06/19 17:32:02.000.135,C:\Projetos Conceito\Conceito Mobile\uConfig.pas=C:\Projetos Conceito\Conceito Mobile\uBaseLista.pas</Transaction>
-    <Transaction>2020/06/19 17:32:02.000.135,C:\Projetos Conceito\Conceito Mobile\uConfig.fmx=C:\Projetos Conceito\Conceito Mobile\uBaseLista.fmx</Transaction>
+    <Transaction>2020/06/19 16:22:06.000.661,C:\Projetos Conceito\Conceito Mobile\uLibary.pas=C:\Projetos Conceito\Conceito Mobile\Unit1.pas</Transaction>
+    <Transaction>2020/06/19 17:32:02.000.135,C:\Projetos Conceito\Conceito Mobile\uBaseLista.fmx=C:\Projetos Conceito\Conceito Mobile\uConfig.fmx</Transaction>
+    <Transaction>2020/06/19 17:32:02.000.135,C:\Projetos Conceito\Conceito Mobile\uBaseLista.pas=C:\Projetos Conceito\Conceito Mobile\uConfig.pas</Transaction>
     <Transaction>2020/06/20 11:58:44.000.982,=C:\Projetos Conceito\Conceito Mobile\uFormClientes.pas</Transaction>
     <Transaction>2020/06/20 11:58:45.000.063,=C:\Projetos Conceito\Conceito Mobile\uFormConfig.pas</Transaction>
-    <Transaction>2020/06/20 16:50:59.000.877,C:\Projetos Conceito\Conceito Mobile\prjMenuLateral.dproj=C:\Projetos Conceito\Conceito Mobile\prjConceitoMobile.dproj</Transaction>
+    <Transaction>2020/06/20 16:50:59.000.877,C:\Projetos Conceito\Conceito Mobile\prjConceitoMobile.dproj=C:\Projetos Conceito\Conceito Mobile\prjMenuLateral.dproj</Transaction>
     <Transaction>2020/06/20 16:52:28.000.892,=C:\Users\fefee\Videos\Conceito-mobile\UnitLogin.pas</Transaction>
+    <Transaction>2020/06/22 08:23:13.761,=C:\Projetos Conceito\conceito-mobile\Unit1.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
-		<NoProfile iOSSimulator="iPhone5" Android="521020fab85a45e7"/>
+		<NoProfile iOSSimulator="iPhone5" Android=""/>
 	</ActiveMobileDevice>
 	<ProjectSortOrder AutoSort="0" SortType="0">
     <File Path="android-support-v4.dex.jar"/>
@@ -81,13 +82,6 @@
     <File Path="fmx.dex.jar"/>
     <File Path="google-play-billing.dex.jar"/>
     <File Path="google-play-licensing.dex.jar"/>
-    <File Path="C:"/>
-    <File Path="C:\Users"/>
-    <File Path="C:\Users\fefee"/>
-    <File Path="C:\Users\fefee\Videos"/>
-    <File Path="C:\Users\fefee\Videos\Conceito-mobile"/>
-    <File Path="C:\Users\fefee\Videos\Conceito-mobile\UnitLogin.pas"/>
-    <File Path="C:\Users\fefee\Videos\Conceito-mobile\UnitLogin.fmx"/>
     <File Path="uPrincipal_Menu.pas"/>
     <File Path="uPrincipal_Menu.fmx"/>
     <File Path="uBaseLista.pas"/>

@@ -91,7 +91,7 @@ implementation
 
 uses uLibary,uFormClientes, uFormConfig;
 
-{ TForm1 }
+{ TFormPrincipal}
 
 procedure TFormPrincipal.FloatAnimation1Finish(Sender: TObject);
 begin

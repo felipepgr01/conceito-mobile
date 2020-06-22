@@ -7,8 +7,7 @@ uses
   uBaseLista in 'uBaseLista.pas' {FormBaseLyt},
   uLibary in 'uLibary.pas',
   uFormClientes in 'uFormClientes.pas' {FormClientes},
-  uFormConfig in 'uFormConfig.pas' {FormConfig},
-  UnitLogin in 'C:\Users\fefee\Videos\Conceito-mobile\UnitLogin.pas' {FormLogin};
+  uFormConfig in 'uFormConfig.pas' {FormConfig};
 
 {$R *.res}
 
@@ -17,7 +16,5 @@ begin
   Application.CreateForm(TFormPrincipal, FormPrincipal);
   Application.CreateForm(TFormClientes, FormClientes);
   Application.CreateForm(TFormConfig, FormConfig);
-  Application.CreateForm(TFormLogin, FormLogin);
-  Application.CreateForm(TFormLogin, FormLogin);
   Application.Run;
 end.
